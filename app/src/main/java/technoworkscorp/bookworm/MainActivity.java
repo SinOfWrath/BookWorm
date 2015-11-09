@@ -33,7 +33,7 @@ public class MainActivity extends ActionBarActivity implements SearchView.OnQuer
 
     private ProgressBar progressBar;
     private static final String TAG = "BookWorm";
-    private final String url = "http://bookworm.tweetent.com/books/_design/useful/_view/by_courseid";
+    private final String url = "URL which will return you a json (you can use JSON provided in readme for test purposes)";
 
     private List<Book> bookList;
     private List<Book> cloneBookList;
