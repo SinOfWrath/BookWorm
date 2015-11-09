@@ -1,5 +1,5 @@
 # BookWorm
-Database is not present so for testing purposes use JSON given below
+Database is not present so for testing purposes you can use JSON given below and your own database
 
 
 {
