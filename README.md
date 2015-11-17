@@ -1,7 +1,6 @@
 # BookWorm
-Database is not present so for testing purposes you can use JSON given below in your own database
 
-
+below is the json used
 {
   "total_rows": 2,
   "offset": 0,
