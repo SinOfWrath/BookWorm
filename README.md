@@ -1,6 +1,7 @@
 # BookWorm
 
 below is the json used
+
 {
   "total_rows": 2,
   "offset": 0,
@@ -55,4 +56,7 @@ below is the json used
     }
   ]
 }
+
+
+***I don't own copyrights to any of the 2 e-books***
 
