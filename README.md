@@ -1,5 +1,5 @@
 
-**The app uses json for inputdata to create cardView(RecyclerView) , it also provides search functionality through list of items(Cards) ** 
+**The app uses json for inputdata to create cardView(RecyclerView) , it also provides search functionality through list of items(Cards), Screenshot of app is in issues tab  ** 
 
 below is the json used
 
