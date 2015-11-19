@@ -1,4 +1,5 @@
-# BookWorm
+
+**The app json as data to create cardView(RecyclerView) , it also provides search functionality through list of items ** 
 
 below is the json used
 
