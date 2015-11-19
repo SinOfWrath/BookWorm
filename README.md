@@ -58,5 +58,3 @@ below is the json used
 }
 
 
-***I don't own copyrights to any of the 2 e-books***
-
